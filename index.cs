@@ -1,5 +1,5 @@
 using System;
-namespace WiggleFoot{
+namespace The_Black_One_Name{
     class Program{
         static void Main(string[] args){
             Console.WriteLine("Hi");
