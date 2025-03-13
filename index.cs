@@ -7,7 +7,6 @@ namespace WiggleFoot{
         }
     }
 }
-======
 using System;
 namespace The_Black_One_Name{
     class Program{
